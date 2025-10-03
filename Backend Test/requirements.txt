@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+soundfile
+scikit-learn
+openpyxl
+basic-pitch
+pretty_midi
+onnxruntime
+tensorflow-cpu
+uvicorn
+fastapi
